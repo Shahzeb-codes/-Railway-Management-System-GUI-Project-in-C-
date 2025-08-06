@@ -36,7 +36,7 @@ Working on this project helped me gain practical experience in:
 
 ## 🧠 My Journey Behind the Project
 
-Hi, I’m **Shahzeb Ahmed**, a dedicated Computer Science student in my 3rd semester. This project is more than just a coding assignment — it’s a story of commitment, passion, and persistence.
+This project is more than just a coding assignment — it’s a story of commitment, passion, and persistence.
 I set a personal challenge to complete this project in **just 3 days**. Despite being completely new to GUI development, I pushed myself — working **day and night**, sometimes up to **13 hours straight till 4 AM** — to build something real, functional, and professional.
 It wasn’t easy, but I gave it my all. And when it finally came together, it felt amazing.
 > **“This is just the beginning. InshaAllah, many more projects are on the way.”**
@@ -53,9 +53,15 @@ It wasn’t easy, but I gave it my all. And when it finally came together, it fe
 
 ---
 
+## 🎬 Watch the Project in Action
+
+video link on linkedin:https://www.linkedin.com/posts/shahzeb-ahmed-pitafi-6b7a85372_csharp-studentproject-learningjourney-activity-7355194043510714368-XOdZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFxaBasBzcC1Zn5LXBSEhWb1xPDJYXLqjHo
+
+video link on twitter:https://x.com/shahzebahmed_01/status/1950092987037290618
+
+
 ## 📝 Final Words
 
-If you're a beginner like me, remember:  
 > “Skill grows when you stretch beyond your comfort zone. Keep going — no matter how hard it feels.” 🚀
 
 ---
